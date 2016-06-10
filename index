@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Sample ONe</title>
+</head>
+<body>
+<?php 
+  echo "Sample one";
+?>
+</body>
+<html>
